@@ -4,7 +4,7 @@
 🔭 I’m currently working @[Telda](https://telda.app/) as Software Engineer.  
   
 
-🌍  I’m interested in the front-end development world.  
+🌍  I’m interested in the software development world.  
   
 
 💬 You can chat with me through [youssef.azizaly@gmail.com](mailto:youssef.azizaly@gmail.com)  
